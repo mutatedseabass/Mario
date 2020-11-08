@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Mario/static/css/main.e1e0e149.chunk.css",
-    "main.js": "/Mario/static/js/main.d7b54a42.chunk.js",
-    "main.js.map": "/Mario/static/js/main.d7b54a42.chunk.js.map",
+    "main.js": "/Mario/static/js/main.a6e7fbdd.chunk.js",
+    "main.js.map": "/Mario/static/js/main.a6e7fbdd.chunk.js.map",
     "runtime-main.js": "/Mario/static/js/runtime-main.49113472.js",
     "runtime-main.js.map": "/Mario/static/js/runtime-main.49113472.js.map",
     "static/js/2.c0a0a7e2.chunk.js": "/Mario/static/js/2.c0a0a7e2.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.49113472.js",
     "static/js/2.c0a0a7e2.chunk.js",
     "static/css/main.e1e0e149.chunk.css",
-    "static/js/main.d7b54a42.chunk.js"
+    "static/js/main.a6e7fbdd.chunk.js"
   ]
 }
